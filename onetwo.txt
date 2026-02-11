@@ -1,3 +1,3 @@
 Local folder is empty but GitHub repo already has some files pushed earlier
 
-Always get the latest code code first(Pull befor push)
+Always get the latest code code first(Pull befor push).
