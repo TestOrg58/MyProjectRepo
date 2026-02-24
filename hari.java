@@ -1,1 +1,1 @@
-Adding new feature = 10
+Adding new feature
